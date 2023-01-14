@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rounak Agarwal</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
+<img src="https://komarev.com/ghpvc/?username=tech-rounak&color=1DA1F2&style=for-the-badge" width="180px"/>
 
 - 🌱 I’m currently learning **React**
 
