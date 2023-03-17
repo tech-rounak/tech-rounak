@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 <img src="https://komarev.com/ghpvc/?username=tech-rounak&color=1DA1F2&style=for-the-badge" width="180px"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **tech.rounak12@gmail.com**
 
