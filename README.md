@@ -4,7 +4,7 @@
 * 🧠  I'm currently learning gRPC
 * 🖥️  Know my experience at [Link](http://drive.google.com/file/d/18-vwDwev1cyr7uHo3O8UEpCUlaXop405/view)
 * ✉️  You can contact me at [tech.rounak12@gmail.com](mailto:tech.rounak12@gmail.com)
-<img align="right" alt="Coding" height = "400" width="500" src="https://raw.githubusercontent.com/tech-rounak/tech-rounak/master/3odR.gif">
+<img align="right" alt="Coding" height = "400" width="500" src="https://raw.githubusercontent.com/tech-rounak/tech-rounak/main/3odR.gif">
 
 
 ### Skills
